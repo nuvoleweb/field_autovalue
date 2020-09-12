@@ -1,4 +1,5 @@
 name: Field Autovalue
 description: Pluggable way to provide automatic values to fields
 core: 8.x
+core_version_requirement: ^8 || ^9
 type: module
